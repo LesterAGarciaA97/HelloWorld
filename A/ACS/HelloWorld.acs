@@ -1,0 +1,7 @@
+// Similar to C's stdio.h, ACS has its own library of basic functions
+#include "zcommon.acs"
+ 
+script 1 ENTER
+{
+    print(s:"Hello World");
+}
