@@ -1,0 +1,6 @@
+# Hare
+## Hello world in Hare markup language
+
+### Hare is a systems programming language designed to be simple, stable, and robust.
+### Hare uses a static type system, manual memory management and a minimal runtime.
+### It's well-suited to writing operating systems, system tools, compilers, networking software, and other low-level, high performance tasks.
