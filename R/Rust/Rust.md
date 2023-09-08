@@ -1,0 +1,4 @@
+# Rust
+## Hello world in Rust programming language
+
+### Rust is blazingly fast and memory-efficient: with no runtime or garbage collector, it can power performance-critical services, run on embedded devices, and easily integrate with other languages.
